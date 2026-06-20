@@ -12,7 +12,7 @@ export default function ProductDetail() {
   const dispatch = useDispatch()
   useEffect(() => {
     fetchApi()
-  }, [category, id])
+  }, [category, id,fetchApi])
 
   const { isAuthenticated } = useSelector((s) => s.auth);
 

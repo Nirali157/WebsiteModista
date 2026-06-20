@@ -8,7 +8,7 @@ export default function Category() {
   const { category } = useParams()
   useEffect(() => {
     fetchApi()
-  }, [])
+  }, [fetchApi])
 
   const fetchApi = async () => {
     const info = await axios.get(`http://localhost:3000/${category}`)
