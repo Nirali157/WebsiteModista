@@ -7,14 +7,19 @@ export default function Category() {
   const [product, setPoduct] = useState([])
   const { category } = useParams()
   useEffect(() => {
-    fetchApi()
-  }, [fetchApi])
-
-  const fetchApi = async () => {
+     const fetchApi = async () => {
     const info = await axios.get(`http://localhost:3000/${category}`)
     console.log(info.data)
     setPoduct(info.data)
   }
+    fetchApi()
+  }, [])
+
+  // const fetchApi = async () => {
+  //   const info = await axios.get(`http://localhost:3000/${category}`)
+  //   console.log(info.data)
+  //   setPoduct(info.data)
+  // }
   return (
     <div className="container py-4" data-aos='fade-up'>
       <style>

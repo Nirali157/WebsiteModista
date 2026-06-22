@@ -1,7 +1,7 @@
 const savedCart = JSON.parse(localStorage.getItem("cart")) || [];
 const arr = savedCart
 export const myReducer = (state = arr, action) => {
-    if (action.type == 'ADD') {
+    if (action.type === 'ADD') {
         // return state = [...state, { ...action.payload, quantity: 1 }]
         const existingItem = state.find(
             (item) => item.id.toString() === action.payload.id.toString()
@@ -18,19 +18,19 @@ export const myReducer = (state = arr, action) => {
         }
     }
 
-    else if (action.type == 'INCREMENT') {
+    else if (action.type === 'INCREMENT') {
         return state.map((item, index) =>
             index === action.index ?
                 { ...item, quantity: item.quantity + 1 } : item
         )
     }
-    else if (action.type == 'DECREMENT') {
+    else if (action.type === 'DECREMENT') {
         return state.map((item, index) =>
             index === action.index && item.quantity > 1
                 ? { ...item, quantity: item.quantity - 1 } : item
         )
     }
-    else if (action.type == 'DELETE') {
+    else if (action.type === 'DELETE') {
         return state.filter((el, i) => i !== action.payload);
     }
     return state

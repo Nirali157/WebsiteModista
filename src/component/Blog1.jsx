@@ -1,7 +1,7 @@
 import { Link, useParams } from 'react-router-dom'
 
 export default function Blog1() {
-    const { id } = useParams()
+    // const { id } = useParams()
     return (
         <div className="container py-5" data-aos='fade-up'>
             <div className="small text-muted mb-4">

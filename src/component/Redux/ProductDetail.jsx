@@ -11,15 +11,19 @@ export default function ProductDetail() {
   const navigate = useNavigate()
   const dispatch = useDispatch()
   useEffect(() => {
-    fetchApi()
-  }, [category, id,fetchApi])
-
-  const { isAuthenticated } = useSelector((s) => s.auth);
-
-  const fetchApi = async () => {
+    const fetchApi = async () => {
     const info = await axios.get(`http://localhost:3000/${category}/${id}`)
     setState(info.data)
   }
+    fetchApi()
+  }, [category, id])
+
+  const { isAuthenticated } = useSelector((s) => s.auth);
+
+  // const fetchApi = async () => {
+  //   const info = await axios.get(`http://localhost:3000/${category}/${id}`)
+  //   setState(info.data)
+  // }
 
   function AddToCart() {
     if (!isAuthenticated) {
