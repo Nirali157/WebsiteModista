@@ -12,8 +12,15 @@ export default function ProductDetail() {
   const dispatch = useDispatch()
   useEffect(() => {
     const fetchApi = async () => {
-    const info = await axios.get(`http://localhost:3000/${category}/${id}`)
-    setState(info.data)
+    // const info = await axios.get(`http://localhost:3000/${category}/${id}`)
+    // setState(info.data)
+    const info = await axios.get("/db.json");
+
+const product = info.data.products.find(
+  (item) => item.id.toString() === id
+);
+
+setState(product);
   }
     fetchApi()
   }, [category, id])

@@ -5,11 +5,12 @@ export default function CategorySection() {
   const [categories, setCategories] = useState([]);
 
   useEffect(() => {
-    axios
-      .get("http://localhost:3000/products") 
+    // axios
+    //   .get("http://localhost:3000/products") 
+    axios.get("/db.json")
       .then((res) => {
-        const data = res.data;
-
+        // const data = res.data;
+const data = res.data.products;
         
         const categoryMap = {};
         data.forEach((item) => {

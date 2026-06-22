@@ -24,8 +24,10 @@ export default function Allproduct() {
     }, [])
 
     const fetchApi = async () => {
-        const info = await axios.get("http://localhost:3000/products")
-        setPoduct(info.data)
+        // const info = await axios.get("http://localhost:3000/products")
+        // setPoduct(info.data)
+        const info = await axios.get("/db.json")
+setPoduct(info.data.products)
         console.log(info.data)
     }
 

@@ -8,9 +8,16 @@ export default function Category() {
   const { category } = useParams()
   useEffect(() => {
      const fetchApi = async () => {
-    const info = await axios.get(`http://localhost:3000/${category}`)
-    console.log(info.data)
-    setPoduct(info.data)
+    // const info = await axios.get(`http://localhost:3000/${category}`)
+    const info = await axios.get("/db.json");
+
+const filtered = info.data.products.filter(
+  (item) => item.category === category
+);
+
+setPoduct(filtered);
+    // console.log(info.data)
+    // setPoduct(info.data)
   }
     fetchApi()
   }, [category])

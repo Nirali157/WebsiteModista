@@ -1,0 +1,416 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "YOSHAN Women's Jacquard Sweater Cardigans Coat For Young Girl",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "2000",
+            "vendor": "Allen Solly",
+            "tags": "Accessories Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/15_7b2279e7-cb20-4659-a41a-00209e03c8f8.jpg?v=1751708199&width=713"
+        },
+        {
+            "id": "2",
+            "name": "Women Floral Print Regular Fit Wrap Top",
+            "category": "Clothing",
+            "price": "1499",
+            "gstRate": "12%",
+            "vendor": " Liverpool",
+            "tags": "Back light Calendar Dual Time Hronograph Multi Function",
+            "description": "We make sure our apparels are rafted under our watchful eyes, with premium quality. The fabric is breathable. The stitches are seamed in a way that will contour your physique...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/13_fe841eac-6ac9-46ce-820b-1b7ca33d4ddf.jpg?v=1751708188&width=713"
+        },
+        {
+            "id": "3",
+            "name": "DL Woman Regular Fit Solid Cut Away Collar Casual Shirt",
+            "category": "Clothing",
+            "oldPrice":"1200",
+            "price": "999",
+            "gstRate": "12%",
+            "vendor": " PUMA",
+            "tags": "Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/07_6bbb6e77-5afa-4265-9452-df47abdfea32.jpg?v=1751708167&width=713"
+        },
+        {
+            "id": "4",
+            "name": "Buy Slim Fit Denim Shirt - Long Full Sleeve ",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1299",
+            "vendor": " Allen Solly",
+            "tags": " Accessories Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_578b6673-c570-423d-ab20-c6eff4555276.jpg?v=1751708181&width=713"
+        },
+        {
+            "id": "5",
+            "name": "Burberry Brit Light Blue Novacheck Detail Cotton Shirt",
+            "category": "Clothing",
+            "price": "1149",
+            "gstRate": "12%",
+            "vendor": " Levi’s",
+            "tags": "Cotton Fashion Summer Vintage",
+            "description": "The fashion-forward girls with our collection of dresses for girls and Western dresses for girls. Crafted with the same attention to detail and style as our women's line, these dresses...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/05.jpg?v=1751708175&width=713"
+        },
+        {
+            "id": "6",
+            "name": "Bubbleroom KNOT L/S Viscose Shirt - Button-Down Blouse - Light Blue",
+            "category": "Clothing",
+            "price": "1450",
+            "gstRate": "12%",
+            "vendor": "PUMA",
+            "tags": "Cotton Summer Vintage",
+            "description": "We make sure our apparels are rafted under our watchful eyes, with premium quality. The fabric is breathable. The stitches are seamed in a way that will contour your physique...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_f336f163-c197-441f-a4d6-aff615de0507.jpg?v=1751708240&width=713"
+        },
+        {
+            "id": "7",
+            "name": "Buy Latest Women's Buttoned Shirt with Spread Collar",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1199",
+            "vendor": "Allen Solly",
+            "tags": "Clothes Cotton Fashion Summer Vintage",
+            "description": "Refresh your kids wardrobe with the new range of Summer Collections of Cotton round neck T-shirts. Color block panel on front with brand logo give enhance look to your kid...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_55711e0c-9091-44f6-b7d8-40d29bea9690.jpg?v=1751708194&width=713"
+        },
+        {
+            "id": "8",
+            "name": "LookbookStore Women's Distressed Jeans Ripped Denim Shorts, Sodalite Blue ",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1530",
+            "vendor": "Levi’s",
+            "tags": "Clothing Cotton Fashion Summer Vintage",
+            "description": "The fashion-forward girls with our collection of dresses for girls and Western dresses for girls. Crafted with the same attention to detail and style as our women's line, these dresses...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_8f0d2d18-c478-4279-8fb2-51bef2148279.jpg?v=1751708246&width=713"
+        },
+        {
+            "id": "9",
+            "name": " Emporio Armani Men's Grey Box Multi Logo Sweatshirt",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1379",
+            "vendor": "Liverpool",
+            "tags": "Accessories Cotton Fashion Shoes Summer",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/21_f2d59205-a484-4f6f-99a9-41bcce9172f4.jpg?v=1751708209&width=713"
+        },
+        {
+            "id": "10",
+            "name": "Reptilian Toe-Ring Slip-On Sandals For Women",
+            "category": "Sandals",
+            "price": "1150",
+            "gstRate": "8%",
+            "vendor": "PUMA",
+            "tags": " Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_a307b77c-6bfb-4085-a508-67d6127df01d.jpg?v=1751708277&width=713"
+        },
+        {
+            "id": "11",
+            "name": "Lizoleor Slip On Block Sandal Women Pointed Toe",
+            "category": "Sandals",
+            "price": "899",
+            "oldPrice":"1500",
+            "gstRate": "8%",
+            "vendor": " PUMA",
+            "tags": "Cotton Summer Trends Vintage",
+            "description": "Refresh your kids wardrobe with the new range of Summer Collections of Cotton round neck T-shirts. Color block panel on front with brand logo give enhance look to your kid...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/02_e70101d7-b6a6-4764-a302-6c1d20400256.jpg?v=1751708250&width=713"
+        },
+        {
+             "id": "12",
+            "name": " Safari Select Classic Messenger Bag with Laptop and Tablet Sleeve",
+            "category": "Bag",
+            "gstRate": "5%",
+            "price": "1899",
+            "vendor": "PUMA",
+            "tags": "Cotton Summer Vintage",
+            "description": "Refresh your kids wardrobe with the new range of Summer Collections of Cotton round neck T-shirts. Color block panel on front with brand logo give enhance look to your kid...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03.jpg?v=1751708268&width=713"
+        },
+        {
+            "id": "13",
+            "name": "Buy Grey Handbags For Women By Bric's ",
+            "category": "Bag",
+             "gstRate": "5%",
+            "price": "2299",
+            "vendor": "Liverpool",
+            "tags": " Accessories Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/14.jpg?v=1751708228&width=713"
+        },
+        {
+             "id": "14",
+            "name": " The Venture Leather Messenger Bag Compact and Lightweight",
+            "category": "Bag",
+             "gstRate": "5%",
+            "price": "1750",
+            "vendor": "Wrangler",
+            "tags": "Cotton Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/02_60a60d30-cfb2-41e5-9fe1-e2e99223e5fa.jpg?v=1751708255&width=713"
+        },
+        {
+            "id": "15",
+            "name": " Fashion Women Bag Female Office Lady Working Daily",
+            "category": "Bag",
+             "gstRate": "5%",
+            "oldPrice":"2000",
+            "price": "1680",
+            "vendor": " Levi’s",
+            "tags": "Cotton Fashion Summer Vintage",
+            "description": "We make sure our apparels are rafted under our watchful eyes, with premium quality. The fabric is breathable. The stitches are seamed in a way that will contour your physique...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_5142434b-7a97-432d-8bb9-ad3b57f5b92d.jpg?v=1751708235&width=713"
+        },
+        {
+             "id": "16",
+            "name": " MVMT Leather Boulevard Analog White Dial Women Watch",
+            "category": "Watch",
+             "gstRate": "18%",
+            "price": "2199",
+            "vendor": " Levi’s",
+            "tags": "Cotton Fashion Summer Vintage",
+            "description": "We make sure our apparels are rafted under our watchful eyes, with premium quality. The fabric is breathable. The stitches are seamed in a way that will contour your physique...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/09.jpg?v=1751708262&width=713"
+        },
+        {
+            "id": "17",
+            "name": " Titan Classique Suave Quartz Green Dial Silver Stainless Steel Mesh Strap Watch for Men",
+            "category": "Watch",
+            "oldPrice":"8000",
+             "gstRate": "18%",
+            "price": "6665",
+            "vendor": " Titan",
+            "tags": " Collection Classique Suave",
+            "description": "Adorn your wrist with elegance featuring a beautiful metallic reflective green dial, housed in a silver stainless steel cushion-shaped case. The watch is paired with a silver stainless steel mesh strap, ensuring all-day comfort and style.",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfeed7ba6/images/Titan/Catalog/90189SM01_1.jpg?sw=600&sh=600"
+        },
+         {
+            "id": "18",
+            "name": " Sonata Poze Quartz Analog Black Dial Black Color Stainless Steel Strap Watch For Men",
+            "category": "Watch",
+             "gstRate": "18%",
+            "price": "6665",
+            "vendor": " Sonata",
+            "tags": " Collection Classique Suave",
+            "description": "Adorn your wrist with elegance featuring a beautiful metallic reflective green dial, housed in a silver stainless steel cushion-shaped case. The watch is paired with a silver stainless steel mesh strap, ensuring all-day comfort and style.",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9e88c7cf/images/Sonata/Catalog/SP70045NM01W_1.jpg?sw=600&sh=600"
+        }
+    ],
+    "Sandals": [
+        {
+            "id": "1",
+            "name": "Reptilian Toe-Ring Slip-On Sandals For Women",
+            "category": "Sandals",
+            "price": "1150",
+              "gstRate": "8%",
+            "vendor": "PUMA",
+            "tags": " Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_a307b77c-6bfb-4085-a508-67d6127df01d.jpg?v=1751708277&width=713"
+        },
+        {
+            "id": "2",
+            "name": "Lizoleor Slip On Block Sandal Women Pointed Toe",
+            "category": "Sandals",
+            "oldPrice":"1500",
+            "price": "899",
+            "gstRate": "8%",
+            "vendor": " PUMA",
+            "tags": "Cotton Summer Trends Vintage",
+            "description": "Refresh your kids wardrobe with the new range of Summer Collections of Cotton round neck T-shirts. Color block panel on front with brand logo give enhance look to your kid...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/02_e70101d7-b6a6-4764-a302-6c1d20400256.jpg?v=1751708250&width=713"
+        }
+    ],
+    "Clothing": [
+         {
+            "id": "1",
+            "name": "YOSHAN Women's Jacquard Sweater Cardigans Coat For Young Girl",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "2000",
+            "vendor": "Allen Solly",
+            "tags": "Accessories Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/15_7b2279e7-cb20-4659-a41a-00209e03c8f8.jpg?v=1751708199&width=713"
+        },
+        {
+            "id": "2",
+            "name": "Women Floral Print Regular Fit Wrap Top",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1499",
+            "vendor": " Liverpool",
+            "tags": "Back light Calendar Dual Time Hronograph Multi Function",
+            "description": "We make sure our apparels are rafted under our watchful eyes, with premium quality. The fabric is breathable. The stitches are seamed in a way that will contour your physique...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/13_fe841eac-6ac9-46ce-820b-1b7ca33d4ddf.jpg?v=1751708188&width=713"
+        },
+        {
+            "id": "3",
+            "name": "DL Woman Regular Fit Solid Cut Away Collar Casual Shirt",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "oldPrice":"1200",
+            "price": "999",
+            "vendor": " PUMA",
+            "tags": "Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/07_6bbb6e77-5afa-4265-9452-df47abdfea32.jpg?v=1751708167&width=713"
+        },
+        {
+            "id": "4",
+            "name": "Buy Slim Fit Denim Shirt - Long Full Sleeve ",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1299",
+            "vendor": " Allen Solly",
+            "tags": " Accessories Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_578b6673-c570-423d-ab20-c6eff4555276.jpg?v=1751708181&width=713"
+        },
+        {
+            "id": "5",
+            "name": "Burberry Brit Light Blue Novacheck Detail Cotton Shirt",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1149",
+            "vendor": " Levi’s",
+            "tags": "Cotton Fashion Summer Vintage",
+            "description": "The fashion-forward girls with our collection of dresses for girls and Western dresses for girls. Crafted with the same attention to detail and style as our women's line, these dresses...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/05.jpg?v=1751708175&width=713"
+        },
+        {
+            "id": "6",
+            "name": "Bubbleroom KNOT L/S Viscose Shirt - Button-Down Blouse - Light Blue",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1450",
+            "vendor": "PUMA",
+            "tags": "Cotton Summer Vintage",
+            "description": "We make sure our apparels are rafted under our watchful eyes, with premium quality. The fabric is breathable. The stitches are seamed in a way that will contour your physique...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_f336f163-c197-441f-a4d6-aff615de0507.jpg?v=1751708240&width=713"
+        },
+        {
+            "id": "7",
+            "name": "Buy Latest Women's Buttoned Shirt with Spread Collar",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1199",
+            "vendor": "Allen Solly",
+            "tags": "Clothes Cotton Fashion Summer Vintage",
+            "description": "Refresh your kids wardrobe with the new range of Summer Collections of Cotton round neck T-shirts. Color block panel on front with brand logo give enhance look to your kid...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_55711e0c-9091-44f6-b7d8-40d29bea9690.jpg?v=1751708194&width=713"
+        },
+        {
+            "id": "8",
+            "name": "LookbookStore Women's Distressed Jeans Ripped Denim Shorts, Sodalite Blue ",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1530",
+            "vendor": "Levi’s",
+            "tags": "Clothing Cotton Fashion Summer Vintage",
+            "description": "The fashion-forward girls with our collection of dresses for girls and Western dresses for girls. Crafted with the same attention to detail and style as our women's line, these dresses...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_8f0d2d18-c478-4279-8fb2-51bef2148279.jpg?v=1751708246&width=713"
+        },
+        {
+            "id": "9",
+            "name": " Emporio Armani Men's Grey Box Multi Logo Sweatshirt",
+            "category": "Clothing",
+            "gstRate": "12%",
+            "price": "1379",
+            "vendor": "Liverpool",
+            "tags": "Accessories Cotton Fashion Shoes Summer",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/21_f2d59205-a484-4f6f-99a9-41bcce9172f4.jpg?v=1751708209&width=713"
+        }
+    ],
+    "Watch": [
+        {
+             "id": "1",
+            "name": " MVMT Leather Boulevard Analog White Dial Women Watch",
+            "category": "Watch",
+             "gstRate": "18%",
+            "price": "2199",
+            "vendor": " Levi’s",
+            "tags": "Cotton Fashion Summer Vintage",
+            "description": "We make sure our apparels are rafted under our watchful eyes, with premium quality. The fabric is breathable. The stitches are seamed in a way that will contour your physique...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/09.jpg?v=1751708262&width=713"
+        },
+        {
+            "id": "2",
+            "name": " Titan Classique Suave Quartz Green Dial Silver Stainless Steel Mesh Strap Watch for Men",
+            "category": "Watch",
+            "oldPrice":"8000",
+             "gstRate": "18%",
+            "price": "6665",
+            "vendor": " Titan",
+            "tags": " Collection Classique Suave",
+            "description": "Adorn your wrist with elegance featuring a beautiful metallic reflective green dial, housed in a silver stainless steel cushion-shaped case. The watch is paired with a silver stainless steel mesh strap, ensuring all-day comfort and style.",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfeed7ba6/images/Titan/Catalog/90189SM01_1.jpg?sw=600&sh=600"
+        },
+          {
+            "id": "3",
+            "name": " Sonata Poze Quartz Analog Black Dial Black Color Stainless Steel Strap Watch For Men",
+            "category": "Watch",
+             "gstRate": "18%",
+            "price": "6665",
+            "vendor": " Sonata",
+            "tags": " Collection Classique Suave",
+            "description": "Adorn your wrist with elegance featuring a beautiful metallic reflective green dial, housed in a silver stainless steel cushion-shaped case. The watch is paired with a silver stainless steel mesh strap, ensuring all-day comfort and style.",
+            "image":"https://www.titan.co.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9e88c7cf/images/Sonata/Catalog/SP70045NM01W_1.jpg?sw=600&sh=600"
+        }
+    ],
+    "Bag": [
+       {
+             "id": "1",
+            "name": " Safari Select Classic Messenger Bag with Laptop and Tablet Sleeve",
+            "category": "Bag",
+             "gstRate": "5%",
+            "price": "1899",
+            "vendor": "PUMA",
+            "tags": "Cotton Summer Vintage",
+            "description": "Refresh your kids wardrobe with the new range of Summer Collections of Cotton round neck T-shirts. Color block panel on front with brand logo give enhance look to your kid...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03.jpg?v=1751708268&width=713"
+        },
+        {
+            "id": "2",
+            "name": "Buy Grey Handbags For Women By Bric's ",
+            "category": "Bag",
+             "gstRate": "5%",
+            "price": "2299",
+            "vendor": "Liverpool",
+            "tags": " Accessories Cotton Fashion Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/14.jpg?v=1751708228&width=713"
+        },
+        {
+             "id": "3",
+            "name": " The Venture Leather Messenger Bag Compact and Lightweight",
+            "category": "Bag",
+             "gstRate": "5%",
+            "price": "1750",
+            "vendor": "Wrangler",
+            "tags": "Cotton Summer Vintage",
+            "description": "A t-shirt is a garment which amalgamates contemporary fashion with your unique style statement. This t-shirt has been designed keeping in mind the latest trends in casual fashion, making you...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/02_60a60d30-cfb2-41e5-9fe1-e2e99223e5fa.jpg?v=1751708255&width=713"
+        },
+        {
+            "id": "4",
+            "name": " Fashion Women Bag Female Office Lady Working Daily",
+            "category": "Bag",
+            "oldPrice":"2000",
+             "gstRate": "5%",
+            "price": "1680",
+            "vendor": " Levi’s",
+            "tags": "Cotton Fashion Summer Vintage",
+            "description": "We make sure our apparels are rafted under our watchful eyes, with premium quality. The fabric is breathable. The stitches are seamed in a way that will contour your physique...",
+            "image": "https://modista-demo.myshopify.com/cdn/shop/files/03_5142434b-7a97-432d-8bb9-ad3b57f5b92d.jpg?v=1751708235&width=713"
+        }
+    ]
+}
