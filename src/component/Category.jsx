@@ -13,7 +13,7 @@ export default function Category() {
     setPoduct(info.data)
   }
     fetchApi()
-  }, [])
+  }, [category])
 
   // const fetchApi = async () => {
   //   const info = await axios.get(`http://localhost:3000/${category}`)

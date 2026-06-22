@@ -9,7 +9,7 @@ export const myReducer = (state = arr, action) => {
 
         if (existingItem) {
             return state.map((item) =>
-                item.id.toString() == action.payload.id.toString()
+                item.id.toString() === action.payload.id.toString()
                     ? { ...item, quantity: (item.quantity || 1) + 1 }
                     : item
             );
